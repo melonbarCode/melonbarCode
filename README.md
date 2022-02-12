@@ -1,11 +1,11 @@
-### 안녕하세요 MelonbarCode 입니다.👋
+### 안녕하세요. 'JAE HYEON CHOI' 입니다.👋
 
 <br/>
 <br/>
 
 <p align="center">
   <a href="https://github.com/melonbarCode" target="_blank">
-   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JAEHYEONCHOI&fontSize=70&animation=twinkling" alt="melonbarCode's GitHub stats" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JAE-HYEON-CHOI&fontSize=70&animation=twinkling" alt="melonbarCode's GitHub stats" width="100%"/>
   </a>
 </p>
 
@@ -16,10 +16,7 @@
 </p>
   
 
-
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center"> ⚙️ Tech Stack</h3>
 
 <p align="center"> </p>
 
@@ -35,7 +32,7 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center">🪄 :: Blog </h3>
 
 <div align="center" style="text-align:center">
   <img alt="blog" src="https://img.shields.io/badge/BLOG-melonbarcode's blog-green?logo=storyblok&style=for-the-badge">
