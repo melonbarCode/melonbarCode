@@ -1,7 +1,17 @@
 ### 안녕하세요. 'JAE HYEON CHOI' 입니다.👋
 
+
+<p align="center">
+  <a href="https://github.com/melonbarCode" target="_blank">
+   <img src="https://github.com/melonbarCode.png" width="300px" height="300px"/>
+  </a>
+</p>
+
 <br/>
 <br/>
+
+
+
 
 <p align="center">
   <a href="https://github.com/melonbarCode" target="_blank">
