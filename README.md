@@ -16,7 +16,9 @@
 
 <br/>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=melonbarCode" alt="melonbarCode's GitHub stats"/>
+   <a href="https://github.com/melonbarCode" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=melonbarCode" alt="melonbarCode's GitHub stats"/>
+   </a>
 </p>
   
 
