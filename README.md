@@ -1,12 +1,6 @@
 ### 안녕하세요. 'JAE HYEON CHOI' 입니다.👋
 
 
-<p align="center">
-  <a href="https://github.com/melonbarCode" target="_blank">
-   <img src="https://github.com/melonbarCode.png" width="300px" height="300px"/>
-  </a>
-</p>
-
 <br/>
 <br/>
 
@@ -45,6 +39,11 @@
 <h3 align="center">🪄 :: Blog </h3>
 
 <div align="center" style="text-align:center">
+  <p align="center">
+    <a href="https://melonbarcode.vercel.app/" target="_blank">
+     <img src="https://github.com/melonbarCode.png" width="150px" height="150px"/>
+    </a>
+  </p>
   <img alt="blog" src="https://img.shields.io/badge/BLOG-melonbarcode's blog-green?logo=storyblok&style=for-the-badge">
 </div>
   
