@@ -60,7 +60,7 @@
   - React, Redux, Redux-saga
 
 ## Open Source Contributions
-
+- timlrx/tailwind-nextjs-starter-blog : [PR#395](https://github.com/timlrx/tailwind-nextjs-starter-blog/pull/395)
 
 ## Translation Works (en-ko)
 
