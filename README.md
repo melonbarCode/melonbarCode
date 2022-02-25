@@ -1,4 +1,4 @@
-### `Hello. My name is 'JAE HYEON CHOI'.👋`
+### `Hello!👋.`
 
 
 > JAVASCRIPT!
