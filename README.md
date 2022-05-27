@@ -51,7 +51,7 @@
 
 ## Work Experiences
 
-- [wecook](https://wecook.co.kr/) (2021.04 ~ )
+- [wecook](https://wecook.co.kr/) (2021.04 ~ 2022.04)
   - Front-end Engineer
   - React, Typescript, NextJS, Recoil, Styled-component
   
